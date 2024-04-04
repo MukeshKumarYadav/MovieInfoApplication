@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MovieInfoApplication</string>
+    <string name="connected_message">Connection Available !!!</string>
+    <string name="no_internet_message">Could not Connect to internet</string>
+    <string name="movie_details">Movie Details</string>
+    <string name="api_key">14f64a47fecb50d5f4498cff459947a6</string>
+    <string name="image_of_movie">image_of_movie</string>
+    <string name="movie_image">movie_image</string>
+    <string name="contact_list">Contact list</string>
+    <string name="search">Search</string>
+    <string name="list_view">List View</string>
+    <string name="no_internet">No Internet</string>
+    <string name="description">Description</string>
+    <string name="high_rated_movie">High rated movie</string>
+    <string name="all_movie_list">All movie list</string>
+</resources>
