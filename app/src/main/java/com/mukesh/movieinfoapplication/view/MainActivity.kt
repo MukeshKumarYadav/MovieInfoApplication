@@ -45,6 +45,7 @@ class MainActivity : AppCompatActivity(), MovieListener {
     private var broadcastReceiver: BroadcastReceiver? = null
     private var page: Int = 0
     private var isPaginationAllowed: Boolean = true
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         activityMainBinding = DataBindingUtil.setContentView(this, R.layout.activity_main)

@@ -6,7 +6,6 @@ import retrofit2.converter.gson.GsonConverterFactory
 
 object RetrofitBuilder {
 
-
     private fun getRetrofit(): Retrofit {
         return Retrofit.Builder()
             .baseUrl(Constant.BASE_URL)
